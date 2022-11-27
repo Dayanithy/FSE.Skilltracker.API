@@ -1,0 +1,11 @@
+﻿global using AutoMapper;
+global using FSE.Admin.API.Application.Models;
+global using FSE.Admin.API.Application.Queries;
+global using FSE.Admin.Domain.Interfaces;
+global using FSE.Admin.Domain.Models;
+global using FSE.Admin.Infrastructure;
+global using MediatR;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.OpenApi.Models;
+global using System.Reflection;
+global using System.Net;
